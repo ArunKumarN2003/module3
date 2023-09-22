@@ -12,8 +12,7 @@
 
 </head>
 <body>
-background-color: #61122F;
-	color: white;
+
 
 
 <nav class="navbar navbar-inverse">
